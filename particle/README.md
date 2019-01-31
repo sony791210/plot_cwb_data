@@ -7,6 +7,6 @@
 
 
 aaa     
-![Alt Text](https://github.com/sony791210/plot_cwb_data/blob/master/particle/photo/part01.png  | width=100) 
+![Alt Text](https://github.com/sony791210/plot_cwb_data/blob/master/particle/photo/part01.png){:height="50%" width="50%"} 
 
     
