@@ -11,3 +11,20 @@
 ![Alt Text](https://github.com/sony791210/plot_cwb_data/blob/master/surface/photo/uv1.png)  
 ### 將點位規則話後繪圖
 ![Alt Text](https://github.com/sony791210/plot_cwb_data/blob/master/surface/photo/uv2.png)  
+
+
+
+##  海溫變化  
+### 表層比對
+![Alt Text](https://github.com/sony791210/plot_cwb_data/blob/master/surface/photo/ocm2_new_1.png)
+
+### RMSE 比對
+![Alt Text](https://github.com/sony791210/plot_cwb_data/blob/master/surface/photo/rmse_all.png)
+
+
+
+
+
+
+
+
